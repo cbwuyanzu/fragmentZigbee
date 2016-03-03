@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GE Lighting Zigbee</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="scanbutton">Start Scanning</string>
+    <string name="connected">Now Connected</string>
+    <string name="disconnected">Now Disconnected</string>
+
+</resources>

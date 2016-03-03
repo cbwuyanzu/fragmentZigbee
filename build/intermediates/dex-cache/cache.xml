@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\502545102\AndroidStudioProjects\fragmentZigbee\app\libs\meshlibrary.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b3c624af256b91cb7c0cef58ff5b6227c8d1092e">
+        <dex dex="C:\Users\502545102\AndroidStudioProjects\fragmentZigbee\app\build\intermediates\pre-dexed\debug\meshlibrary-f6d2d7853f9cbdc0d41f61230b59ffa690ecd168.jar" />
+    </item>
+    <item
+        jar="C:\Users\502545102\AndroidStudioProjects\fragmentZigbee\app\libs\sc-light-jdk15on-1.47.0.3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ee5043d8e50e46b0daca4e798f52d7532c27b0c4">
+        <dex dex="C:\Users\502545102\AndroidStudioProjects\fragmentZigbee\app\build\intermediates\pre-dexed\debug\sc-light-jdk15on-1.47.0.3-5c23eb8a47f5c0ef387457ed7d670e531be30691.jar" />
+    </item>
+    <item
+        jar="C:\Users\502545102\AndroidStudioProjects\fragmentZigbee\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\502545102\AndroidStudioProjects\fragmentZigbee\app\build\intermediates\pre-dexed\debug\classes-daaf9f748c90dfe3c052229b741c2aa47643b023.jar" />
+    </item>
+    <item
+        jar="C:\Users\502545102\AndroidStudioProjects\fragmentZigbee\app\libs\dom4j-1.6.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="5d3ccc056b6f056dbf0dddfdf43894b9065a8f94">
+        <dex dex="C:\Users\502545102\AndroidStudioProjects\fragmentZigbee\app\build\intermediates\pre-dexed\debug\dom4j-1.6.1-fe32dc1b1072db23513e97f6e4604255e2826aee.jar" />
+    </item>
+    <item
+        jar="C:\Users\502545102\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\502545102\AndroidStudioProjects\fragmentZigbee\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-5fd4451a213995e2de9d08655b83f450306d596a.jar" />
+    </item>
+    <item
+        jar="C:\Users\502545102\AndroidStudioProjects\fragmentZigbee\app\libs\scprov-jdk15on-1.47.0.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1e2f52dbf7402b12b792282078b9f895512ae5af">
+        <dex dex="C:\Users\502545102\AndroidStudioProjects\fragmentZigbee\app\build\intermediates\pre-dexed\debug\scprov-jdk15on-1.47.0.2-dfdf50f9e0bc6d05ad881ae7fa1eb6cb9002dcbc.jar" />
+    </item>
+    <item
+        jar="C:\Users\502545102\AndroidStudioProjects\fragmentZigbee\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\502545102\AndroidStudioProjects\fragmentZigbee\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-f81c85e35e2a83d1c40b176c360adf8fa8b5709e.jar" />
+    </item>
+    <item
+        jar="C:\Users\502545102\AndroidStudioProjects\fragmentZigbee\app\libs\scpkix-jdk15on-1.47.0.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6bed9af945c158e1e02dfbdf030179dd18e60d83">
+        <dex dex="C:\Users\502545102\AndroidStudioProjects\fragmentZigbee\app\build\intermediates\pre-dexed\debug\scpkix-jdk15on-1.47.0.2-516f1970a8f840e67e752b655dca9827349a361e.jar" />
+    </item>
+
+</items>
